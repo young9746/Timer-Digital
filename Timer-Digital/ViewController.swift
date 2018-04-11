@@ -3,7 +3,7 @@
 //  Timer-Digital
 //
 //  Created by D7703_30 on 2018. 4. 11..
-//  Copyright © 2018년 김영석. All rights reserved.
+//  Copyright © 2018년 All rights reserved.
 //
 
 import UIKit
